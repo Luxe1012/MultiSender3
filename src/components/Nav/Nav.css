@@ -1,0 +1,18 @@
+.navbrand {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.navlogo {
+    margin: 0 10px 0 10px;
+}
+
+h1 {
+    color: #000000 !important;
+}
+
+.navback {
+    background-color: #282c34 !important;
+}

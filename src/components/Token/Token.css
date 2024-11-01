@@ -1,0 +1,14 @@
+.inputgroup {
+  width: 75% !important;
+  margin-left: 1em;
+}
+.tokenaddr {
+  margin-top: 2em;
+}
+.balanceToken {
+  display: flex;
+  margin-left: 1em;
+}
+.balanceToken > h4 {
+  color: blue;
+}

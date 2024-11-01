@@ -1,0 +1,38 @@
+.buy-sell-option {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  width: 236px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.setting {
+  margin: 1em 5em 0 1em;
+}
+
+.max-min-val {
+  margin-top: 1em;
+  width: 50%;
+}
+
+.maxval {
+  width: 316px !important;
+  margin-bottom: 1em;
+}
+
+.minval {
+  margin-top: 1em;
+  width: 316px !important;
+}
+
+.timestamp {
+  width: 42% !important;
+}
+
+.run-btn {
+  display: flex;
+}

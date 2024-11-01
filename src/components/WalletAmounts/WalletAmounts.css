@@ -1,0 +1,16 @@
+.walletamount {
+  margin-left: 1em;
+  margin-right: 5em;
+  width: 316px !important;
+}
+.wallet_amount {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  display: flex;
+  align-items: center;
+}
+
+.generate {
+  font-weight: 600;
+  font-size: 16px;
+}

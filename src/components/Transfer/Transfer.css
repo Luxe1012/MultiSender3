@@ -1,0 +1,30 @@
+.sol_transfer {
+  display: flex;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  margin-left: 1em;
+  align-items: center;
+  justify-content: space-between;
+}
+
+._solamount {
+  width: 371px !important;
+}
+
+._perwallets {
+  margin-left: 2em;
+  display: flex;
+  width: 230px;
+}
+
+.sleeptime {
+  display: flex;
+  width: 285px;
+  margin-left: 2em;
+}
+
+.transfer_btn {
+  display: flex;
+  margin-left: 2em;
+  align-items: center;
+}
